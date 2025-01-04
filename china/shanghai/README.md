@@ -21,3 +21,9 @@
 [Jing'an Park (靜安公園)](https://maps.app.goo.gl/7w5eD8Wq5Qr8wV5X8) is a park located at the Western section of Nanjing Road, just opposite the Jing'an Temple in Shanghai, China. There is a sport yard in the south side with a few bars.
 
 ![Jing'an Park 01](jing'an-park-01.jpg)
+
+## Suzhou Creek and Jiaozhou Road
+
+[Suzhou Creek and Jiaozhou Road (蘇州溪和膠州路)](https://maps.app.goo.gl/VFoRbUkguQFvUQjL8) is at the west end of Jiaozhou Road, near Suzhou Creek. There is a small sport yard with a pull-up spot.
+
+![Suzhou Creek and Jiaozhou Road 01](suzhou-creek-and-jiaozhou-road-01.jpg)
