@@ -24,6 +24,6 @@
 
 ## Suzhou Creek and Jiaozhou Road
 
-[Suzhou Creek and Jiaozhou Road (蘇州溪和膠州路)](https://maps.app.goo.gl/VFoRbUkguQFvUQjL8) is at the west end of Jiaozhou Road, near Suzhou Creek. There is a small sport yard with a pull-up spot.
+[Suzhou Creek and Jiaozhou Road (蘇州河和膠州路)](https://maps.app.goo.gl/VFoRbUkguQFvUQjL8) is at the west end of Jiaozhou Road, near Suzhou Creek. There is a small sport yard with a pull-up spot.
 
 ![Suzhou Creek and Jiaozhou Road 01](suzhou-creek-and-jiaozhou-road-01.jpg)
