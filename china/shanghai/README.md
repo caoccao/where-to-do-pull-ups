@@ -17,6 +17,8 @@
 
 [Hongqiao Riverside Park (虹橋河濱公園)](https://maps.app.goo.gl/W4ub3FMcMQJQNRuW7) is at 2028 Changning Rd, Changning District. There are a few bars in the west side of the park by the Suzhou creek.
 
+![Hongqiao Riverside Park](hongqiao-riverside-park-01.jpg)
+
 ## Jing'an District Workers' Stadium
 
 [Jing'an District Workers' Stadium (靜安區工人體育場)](https://maps.app.goo.gl/Lzumdhza7Fbw2V7u6) is at 888 Changping Road, near Jiaozhou Road, Jing'an District. There is a small sport yard in the west side with a few bars.
