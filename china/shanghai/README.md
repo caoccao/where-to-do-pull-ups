@@ -50,7 +50,13 @@
 
 [Jing'an Park (靜安公園)](https://maps.app.goo.gl/7w5eD8Wq5Qr8wV5X8) is a park located at the Western section of Nanjing Road, just opposite the Jing'an Temple in Shanghai. There is a sport yard in the south side with a few bars.
 
-![Jing'an Park](jing'an-park-01.jpg)
+![Jing'an Park 01](jing'an-park-01.jpg)
+
+<details>
+<summary>Click to toggle more photos</summary>
+
+![Jing'an Park 02](jing'an-park-02.jpg)
+</details>
 
 ## Shanghai Jiao Tong University Xuhui Campus
 
