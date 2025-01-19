@@ -20,7 +20,17 @@
 
 [Hongqiao Riverside Park (虹橋河濱公園)](https://maps.app.goo.gl/W4ub3FMcMQJQNRuW7) is at 2028 Changning Rd, Changning District. There are a few bars in the west side of the park by the Suzhou creek.
 
-![Hongqiao Riverside Park](hongqiao-riverside-park-01.jpg)
+![Hongqiao Riverside Park 01](hongqiao-riverside-park-01.jpg)
+
+<details>
+<summary>Click to toggle more photos</summary>
+
+![Hongqiao Riverside Park 02](hongqiao-riverside-park-02.jpg)
+
+![Hongqiao Riverside Park 03](hongqiao-riverside-park-03.jpg)
+
+![Hongqiao Riverside Park 04](hongqiao-riverside-park-04.jpg)
+</details>
 
 ## Huaihai Park
 
