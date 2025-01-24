@@ -8,8 +8,11 @@ Why not share the free spots around our cities? Let's make it easier for everyon
 
 ## Cities
 
-- [China - Shanghai](china/shanghai/README.md)
-- [China - Shenzhen](china/shenzhen/README.md)
+- [China](china)
+  - [Shanghai](china/shanghai/README.md)
+  - [Shenzhen](china/shenzhen/README.md)
+- [Germany](germany)
+  - [Berlin](germany/berlin/README.md)
 
 ## Contribute
 
