@@ -10,7 +10,7 @@ It's really hard to find a free pull-up spot in Berlin. Luckily, there are plent
 
 ## Volkspark Wilmersdorf
 
-The Volkspark Wilmersdorf is full of all kinds of calisthenics equipment.
+There is a [calisthenics ground](https://maps.app.goo.gl/Z35t9YbfN9PAHvtx7) in Volkspark Wilmersdorf. It is full of all kinds of calisthenics equipment.
 
 ![Volkspark Wilmersdorf 01](volkspark-wilmersdorf-01.jpg)
 
