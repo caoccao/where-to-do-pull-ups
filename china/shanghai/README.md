@@ -16,6 +16,12 @@
 
 ![Changfeng Park](changfeng-park-01.jpg)
 
+<details>
+<summary>Click to toggle more photos</summary>
+
+![Changfeng Park 02](changfeng-park-02.jpg)
+</details>
+
 ## Hongqiao Riverside Park
 
 [Hongqiao Riverside Park (虹橋河濱公園)](https://maps.app.goo.gl/W4ub3FMcMQJQNRuW7) is at 2028 Changning Rd, Changning District. There are a few bars in the west side of the park by the Suzhou creek.
